@@ -1,0 +1,2 @@
+# Trend_AntiTrend-TradingStrategy.R
+Code for a Trend_AntiTrend Following Trading Strategy. Most trend following strategies perform exceedingly well when the market is trending. However, it has been generally observed that any market is in trending mode for only 1/3rd of the time. Most times, the market will be in range-bound mode. This is when most of our profits from any trend-following will get wiped out. 
